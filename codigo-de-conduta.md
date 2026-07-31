@@ -9,3 +9,5 @@ Para manter a comunidade acolhedora, todas as pessoas participantes concordam em
 
 Situações que violem este código podem ser reportadas pela organização (veja
 [contato.md](contato.md)).
+
+<!-- Add um comentário para segundo comimt -->
