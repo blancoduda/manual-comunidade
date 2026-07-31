@@ -12,4 +12,4 @@ de tecnologia, da engenharia à liderança.
 ## Quem pode participar
 
 Qualquer pessoa que se identifique com a nossa missão e queira contribuir com um ambiente
-mais diverso na tecnologia.
+mais diverso na tecnologia!
